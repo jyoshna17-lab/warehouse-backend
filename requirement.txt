@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+PyJWT
+argon2-cffi
+requests
+pydantic
+uvicorn
